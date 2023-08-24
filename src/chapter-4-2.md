@@ -1,5 +1,3 @@
-Implementing AI-powered Decision-Making Tools for Relationship Management
-=======================================================================================================================================================
 
 Machine learning is a powerful tool for providing personalized support in relationships. In this chapter, we will discuss how to implement AI-powered decision-making tools for relationship management.
 

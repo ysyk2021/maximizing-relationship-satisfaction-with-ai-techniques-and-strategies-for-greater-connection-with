@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Sentiment Analysis for Recognizing and Responding to Emotions
-========================================================================================================================================================
 
 Effective emotional support requires an understanding of the emotions being expressed. Artificial intelligence (AI) can enhance empathy and emotional support by using machine learning-powered sentiment analysis to recognize and respond to emotions in written or spoken language. In this chapter, we will explore how sentiment analysis can be used to improve emotional support in relationships.
 

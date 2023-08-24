@@ -1,5 +1,3 @@
-The Role of AI in Enhancing Relationship Satisfaction
-===================================================================
 
 Relationships are complex and require careful attention and maintenance to thrive. Artificial intelligence (AI) has the potential to revolutionize the way couples approach and maintain their connections with each other by providing personalized support and insights.
 

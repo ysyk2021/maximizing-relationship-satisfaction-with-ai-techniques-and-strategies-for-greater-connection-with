@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Analytics for Identifying Patterns and Opportunities for Improvement in Your Relationship Dynamics
-===============================================================================================================================================================================================================
 
 Machine learning-powered analytics can help couples identify patterns and opportunities for improvement in their relationship dynamics. In this chapter, we will discuss how to use machine learning-powered analytics for personalized relationship support.
 

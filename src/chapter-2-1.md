@@ -1,5 +1,3 @@
-What is AI and How Does it Work for Enhancing Relationships?
-=========================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize the way couples approach and maintain their connections with each other. In this chapter, we will discuss what AI is and how it can be used to enhance relationships.
 

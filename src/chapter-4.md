@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Relationship Support
-============================================================================
 
 Machine learning can provide personalized support and assistance for couples looking to enhance their relationship satisfaction. In this chapter, we will discuss how to leverage machine learning for personalized relationship support using machine learning-powered analytics, AI-powered decision-making tools, and machine learning-powered virtual assistants.
 
