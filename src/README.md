@@ -8,3 +8,7 @@ The book covers a range of topics related to using AI for relationship optimizat
 Whether you're looking to strengthen an existing relationship or start a new one, "Maximizing Relationship Satisfaction with AI" offers valuable insights and strategies for achieving greater emotional connection and satisfaction with others.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
