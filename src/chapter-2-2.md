@@ -1,5 +1,4 @@
-Chapter: Common Applications of AI in Relationship Enhancement, Including Communication and Emotional Support
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore common applications of Artificial Intelligence (AI) in relationship enhancement, focusing on communication and emotional support. We will delve into how AI techniques and strategies can be effectively utilized to improve communication dynamics, provide emotional support, and foster greater connection within relationships.
 

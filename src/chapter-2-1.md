@@ -1,5 +1,4 @@
-Chapter: What is AI and How Does it Work for Enhancing Relationships?
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of Artificial Intelligence (AI) and its role in enhancing relationships. We will delve into what AI is, its underlying technologies, and how it can be utilized to improve communication, emotional understanding, and overall relationship satisfaction.
 

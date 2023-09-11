@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns about Privacy and Security when Using AI in Personal Relationships
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will address the concerns surrounding privacy and security when utilizing AI in personal relationships. While AI has the potential to enhance relationships, it is crucial to prioritize and address these concerns to ensure the trust and well-being of individuals involved.
 

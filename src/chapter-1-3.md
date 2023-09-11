@@ -1,5 +1,4 @@
-Chapter: What You Can Expect from This Book
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Welcome to "Maximizing Relationship Satisfaction with AI Techniques and Strategies for Greater Connection with Artificial Intelligence." In this chapter, we will outline what you can expect from this book and how it will guide you in maximizing your relationship satisfaction using AI techniques and strategies.
 
